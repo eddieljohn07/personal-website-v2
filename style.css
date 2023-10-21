@@ -134,14 +134,6 @@ header {
     background-color: #0B132B;
 }
 
-.stack p{
-    display: flex;
-    font-weight: 100;
-    font-style: italic;
-    margin: 0;
-    justify-content: center;
-}
-
 .techStack .stack{
     border: 2px solid #6FFFE9;
     border-radius: 10px;
