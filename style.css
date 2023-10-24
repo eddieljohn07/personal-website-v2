@@ -131,7 +131,7 @@ header {
 .stack{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-around;
     background-color: #0B132B;
 }
 
