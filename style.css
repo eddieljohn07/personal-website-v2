@@ -158,6 +158,10 @@ header {
     justify-content: space-between;
 }
 
+headerTS h1.others{
+    margin-right: 25%;
+}
+
 .techStack .stack h1{
     font-size: 1.5rem;
     padding-right:1rem;
